@@ -36,4 +36,4 @@
 
 </br>
 
-![image](https://github.com/user-attachments/assets/80cfa37d-b89a-4b42-9f0d-3c500705870c)
+<img src="https://github.com/user-attachments/assets/80cfa37d-b89a-4b42-9f0d-3c500705870c" width="200" height="400"/>
