@@ -29,7 +29,7 @@ public class LogicalOperatorExample {
 			System.out.println("2 또는 3의 배수군요");
 		}
 		
-		// 삼항 연산자를 통해 if문을 간소화할 수 있습니다.
+		// 삼항 연산자를 통해 if문을 간소화할 수 있습니
 		char grade = (value > 90) ? 'Y' : 'N';
 		System.out.println(grade);
 	}

@@ -36,4 +36,13 @@
 
 </br>
 
+### **5. 자바 Study**
+   1) 변수
+   2) 연산자
+   3) if문, switch문
+   4) for문, while문, do-while문
+   5) 참조 타입과 참조 변수
+
+</br>
+
 <img src="https://github.com/user-attachments/assets/80cfa37d-b89a-4b42-9f0d-3c500705870c" width="600" height="550"/>
